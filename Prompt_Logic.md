@@ -24,11 +24,7 @@ The bot demonstrates prompt engineering skills by combining business context wit
 ---
 
 ## 4. Structure
-- Each FAQ is treated as a **separate prompt → output pair**.  
-- Prompts explicitly mention the question to be answered.  
-- Answers are stored individually in `outputs/faqX.txt` files for easy organization.  
-
----
+Generated answers are maintained in a structured format for easy organization and reference.
 
 ## 5. Balance of Information
 - **Informative:** Provide exact details (membership fees, timings, facilities).  
